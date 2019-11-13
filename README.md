@@ -17,6 +17,6 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 
 ## Group Components:
 
-Anna Lagrasta
-Francesca Griggio
-Martina Gualandi
+Anna Lagrasta 30/11/1998
+Francesca Griggio 03/12/1998
+Martina Gualandi 21/05/1998
