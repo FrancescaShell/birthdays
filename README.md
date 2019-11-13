@@ -17,6 +17,6 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 
 ## Group Components:
 
-Anna Lagrasta (868543) 30/11/1998 
-Francesca Griggio (866764) 03/12/1998
-Martina Gualandi (869442) 21/05/1998
+Anna Lagrasta (868543) 30/11/1998 /n
+Francesca Griggio (866764) 03/12/1998 /n
+Martina Gualandi (869442) 21/05/1998 
