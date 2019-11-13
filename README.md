@@ -19,3 +19,4 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 
 Anna Lagrasta
 Francesca Griggio
+Martina Gualandi
