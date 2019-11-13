@@ -21,7 +21,9 @@ def print_birthdays():
         print(name)
 
 
-"Return the name if it is present"
+'''
+Return the name and the birthday if it is present.
+'''
 def return_birthday(name):
     if name in birthdays:
         print('{}\'s birthday is {}.'.format(name, birthdays[name]))
